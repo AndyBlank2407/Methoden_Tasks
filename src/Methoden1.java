@@ -60,9 +60,8 @@ public class Methoden1 {
 
 
     public static int tripleSeven(){
-        int i = 777;
 
-        return i;
+        return 777;
     }
 
     public static void andererMethodenAufruf(){
