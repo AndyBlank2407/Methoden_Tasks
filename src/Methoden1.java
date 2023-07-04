@@ -4,7 +4,7 @@ public class Methoden1 {
 
 
     public static void main(String[] args) {
-        summe(4, 6);
+        summe(5, 6);
         summe1(4,6);
         stringLength("StringMitMehrAls20Characters");
         groeßerAls(50, 110);
@@ -62,7 +62,7 @@ public class Methoden1 {
 
     public static int tripleSeven(){
 
-        return 777777;
+        return 77777777;
     }
 
     public static void andererMethodenAufruf(){
