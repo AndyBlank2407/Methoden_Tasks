@@ -7,6 +7,7 @@ public class Methoden1 {
         summe(4, 6);
         summe1(4,6);
         stringLength("StringMitMehrAls20Characters");
+        groeßerAls(50, 110);
         checkStrForFancy("fancyis");
         andererMethodenAufruf();
         summeScanner();
@@ -61,7 +62,7 @@ public class Methoden1 {
 
     public static int tripleSeven(){
 
-        return 777;
+        return 777777;
     }
 
     public static void andererMethodenAufruf(){
